@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <PackageId>Binary To Decimal</PackageId>
+    <Version>2.0.0</Version>
+    <Authors>David Demland</Authors>
+    <Company>David Demland</Company>
+    <Description>This is practice program for learning how to convert Binary numbers to Decimal numbers. This program was created with the intention to be used as a practice program with the Cisco CCNA program.</Description>
+    <Copyright>Copyright © 2009 - 2020</Copyright>
+    <Product>Binary To Decimal</Product>
+  </PropertyGroup>
+
+</Project>

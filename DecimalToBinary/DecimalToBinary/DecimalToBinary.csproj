@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>David Demland</Authors>
+    <Product>Decimal To Binary</Product>
+    <Description>This is practice program for learning how to convert Decimal numbers to Binary numbers. This program was created with the intention to be used as a practice program with the Cisco CCNA program.</Description>
+    <Copyright>Copyright © 2009 - 2020</Copyright>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+
+</Project>
